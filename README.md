@@ -13,6 +13,5 @@ Uma aplicação web intuitiva que permite aos usuários estimarem o custo e os b
     * Linguagem: Python, Java.
     * Banco de dados: OracleDB
 * **Outras tecnologias:**
-    * Python para cálculos e IA.
-    * [Outras bibliotecas ou ferramentas relevantes]
+    * Python para cálculos e IA
 
