@@ -5,6 +5,7 @@ export default function About() {
     <div className="flex flex-col items-center justify-center min-h-screen bg-[#4F7942] p-8">
       <section className="bg-[#e2e8eb] rounded-lg shadow-lg p-16 w-full max-w-6xl min-h-[85vh] mx-auto">
         <h1 className="text-4xl text-[#6BBF59] font-bold text-center mb-12">Sobre Nós</h1>
+        <h1 className="text-4xl text-[#6BBF59] font-bold text-center mb-12">Turma 1TDSR</h1>
 
         <div className="flex flex-col lg:flex-row items-center lg:items-start mb-16">
           <div className="lg:w-1/2 text-center lg:text-left lg:pr-12 mb-12 lg:mb-0">
