@@ -105,7 +105,7 @@ export default function About() {
             </div>
             <div className="relative w-40 h-40">
               <Image
-                src="/joao.jpg" 
+                src="/Joao.jpg" 
                 alt="João"
                 width={160}   
                 height={160}  
